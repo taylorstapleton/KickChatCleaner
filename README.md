@@ -1,7 +1,9 @@
 # KickChatCleaner
 A chrome extension that filters chat messages on kick.com for text or emotes set by the user in the extension options menu.
 
-The files in this directory directly match those I [uploaded to the chrome web store](https://chromewebstore.google.com/detail/kick-chat-cleaner/nkpchhnmenbncfofheegmabpgcickkob). A motivated user could check this via checksum. Alternatively, the code here could be downloaded directly fom github and installed via chrome developer mode [instructions here](https://bashvlas.com/blog/install-chrome-extension-in-developer-mode/).
+The files in this directory directly match those [uploaded to the chrome web store](https://chromewebstore.google.com/detail/kick-chat-cleaner/nkpchhnmenbncfofheegmabpgcickkob) as version 0.1. A motivated user could check this via checksum. Alternatively, the code here could be downloaded directly fom github and installed via chrome developer mode [instructions here](https://bashvlas.com/blog/install-chrome-extension-in-developer-mode/).
+
+For notes about security, see the description of manifest.json below.
 
 ## Description of each file
 
